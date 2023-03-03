@@ -23,4 +23,4 @@ Some of the insights gained from this data include:
 - Favorite programming languages by survey takers. 
 
 
-For a more in-depth look at the processes involved within PowerQuery please refer to my breakdown on my portfolio: 
+
