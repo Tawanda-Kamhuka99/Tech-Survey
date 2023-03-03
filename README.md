@@ -1,6 +1,6 @@
 # Data Professionals Survey Analysis
 
-This is a PowerBI report with insights from a survey done on 631 data professionals working across the tech industry. 
+This is a PowerBI report with insights from a survey done on 630 data professionals working across the tech industry. 
 
 #### Data Cleaning and Manipulation:
 
