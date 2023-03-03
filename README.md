@@ -8,6 +8,7 @@ The data was cleaned and manipulated all within PowerBI's PowerQuery system. Thi
 - Removing unnecessary columns. 
 - Creating new columns with custom conditions based on other columns. 
 - Checking for duplicates and mistakes.
+- Converting data types. 
 
 #### Insights:
 
